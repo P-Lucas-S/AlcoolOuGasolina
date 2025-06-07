@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="aviso">Aviso</string>
+    <string name="preencha_campos">Preencha todos os campos!</string>
+    <string name="alcool">Álcool</string>
+    <string name="gasolina">Gasolina</string>
+</resources>
