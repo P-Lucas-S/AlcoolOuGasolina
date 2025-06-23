@@ -1,7 +1,11 @@
 <resources>
-    <string name="app_name">Álcool ou Gasolina</string>
-    <string name="aviso">Aviso</string>
-    <string name="preencha_campos">Preencha todos os campos!</string>
-    <string name="alcool">Álcool</string>
-    <string name="gasolina">Gasolina</string>
+    <string name="app_name">GasOrAlchool</string>
+    <string name="nome_app">GasOrAlchool</string>
+    <string name="add_posto">Inserir Posto</string>
+    <string name="lista_postos">Lista de Postos</string>
+    <string name="sem_nome">Sem nome</string>
+    <string name="edicao">Editar</string>
+    <string name="exclusao">Excluir</string>
+    <string name="posto_nao_encontrado">Posto não encontrado</string>
+    <string name="calculo">Calcular</string>
 </resources>

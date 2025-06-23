@@ -1,21 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Theme.AlcoolOuGasolina" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/orange_500</item>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 
-    </style>
-
-    <style name="BACKGROUND">
-        <item name="android:background">@color/white</item>
-    </style>
-
-    <style name="TEXTCOLOR">
-        <item name="android:textColor">@color/gray</item>
-    </style>
-
-    <style name="TEXTCOLORINPUT">
-        <item name="android:textColor">@color/black</item>
-    </style>
-
+    <style name="Theme.GasOrAlchool" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
